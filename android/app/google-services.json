@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "26768431469",
+    "project_id": "cryptoo-ec508",
+    "storage_bucket": "cryptoo-ec508.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:26768431469:android:daf2658e68d44e13436264",
+        "android_client_info": {
+          "package_name": "com.example.cryptoo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "26768431469-durso6rk7mfer5c3q957tq99pl4g3r0d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDeLgEFfFyjLMXyAK4X1JJPo-xzEnHYuw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "26768431469-durso6rk7mfer5c3q957tq99pl4g3r0d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
